@@ -9,7 +9,7 @@ Also available on CKAN. -->
 # Not So SimpleConstruction
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/NSSC?include_prereleases) 
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
-![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![GPLv3](https://img.shields.io/badge/license-GPLv3-success "GPLv3") 
 
 > ***Adds Mallet, Survey Stake, Recycler to the game and turns Cupola into EPL Survey Station. For SimpleConstruction.*** 
 ## Author
