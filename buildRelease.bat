@@ -19,7 +19,7 @@ rem    but not always
 rem LICENSE is the license file
 rem README is the readme file
 
-set GAMEDIR=SimpleConstruction
+set GAMEDIR=NotSoSimpleConstruction
 set GAMEDIR2=ExtraplanetaryLaunchpads
 set GAMEDATA="GameData\"
 set VERSIONFILE=%GAMEDIR%.version
