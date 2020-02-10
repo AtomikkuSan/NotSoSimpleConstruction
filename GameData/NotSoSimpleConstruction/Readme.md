@@ -62,7 +62,7 @@ Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Re
 - [Kethane/KethanePlus](http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*)
 
 ### Conflicts
-- [ExtraPlanatary Launchpads](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*)
+- none
 
 ### Possible Conflicts
 - [MKS}() maybe?
