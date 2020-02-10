@@ -1,0 +1,53 @@
+{
+    "spec_version": "v1.4",
+    "identifier":   "NotSoSimpleConstruction",
+    "name":         "NotSoSimpleConstruction! Updated",
+    "abstract":     "SimpleConstruction! addon. Adds Mallet, Survey Stake, Recycler, Disposable Pad, and Control Reference; and turns Cupola module to Survey Station.",
+    "$kref":        "#/ckan/spacedock/1078",
+    "$vref":        "#/ckan/ksp-avc/SimpleConstruction.version",
+    "x_netkan_version_edit": {
+        "find": "[Version_]?",
+        "replace": "",
+        "strict": false
+    },
+    "x_netkan_epoch": 1,
+    "license": "GPLv3.0",
+    "tags": [
+        "plugin",
+        "resources",
+        "config"
+    ],
+    "depends": [
+        { "name": "ModuleManager"      },
+        { "name": "SimpleConstruction" },
+        { "name": "KIS"                }
+    ],
+    "recommends": [
+        { "name" : "KerbalStats" },
+        { "name" : "Toolbar"     }
+        { "name" : "KAS"         },
+    ],
+    "suggests": [
+        { "name": "SimpleLife"                   },
+        { "name": "MoarKerbals"                  },
+        { "name": "SimpleLogistics"              },
+        { "name": "CommunityResourcePack"        },
+        { "name": "StockalikeMiningExtension"    },
+        { "name": "InfernalRoboticsNext"         },
+        { "name": "KerbalJointReinforcementNext" }
+    ],
+    "supports": [
+        { "name": "KerbalChangelog" },
+        { "name": "Kethane"         },
+        { "name": "B9PartSwitch"    }
+    ],
+    "conflicts": [
+        { "name": "ExtraPlanetaryLaunchpads" }
+    ],,
+    "install": [
+        {
+            "find": "NSSC",
+            "install_to": "GameData"
+        }
+    ]
+}
