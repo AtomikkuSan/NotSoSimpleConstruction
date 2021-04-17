@@ -1,4 +1,4 @@
-// This will add the survey station capabality to all manned command parts
+// This will add the survey station capability to all manned command parts
 // Change the file extension to .cfg to activate it
 
 @PART[*]:HAS[MODULE[ModuleCommand],MODULE[!ELSurveyStation],#CrewCapacity[>0]]:NEEDS[SimpleConstruction]:FOR[NotSoSimpleConstruction]
