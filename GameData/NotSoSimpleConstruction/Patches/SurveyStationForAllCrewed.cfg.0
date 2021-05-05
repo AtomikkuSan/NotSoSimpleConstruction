@@ -1,0 +1,22 @@
+// SurveyStationForAllCrewed.cfg v1.0.0.0
+// NotSoSimpleConstruction
+// created: 05 May 2021
+// updated: 05 May 2021
+
+// to enable - copy to user folder under GameData/
+// rename from *.cfg.0 to just *.cfg
+
+@PART[*]:HAS[#CrewCapacity[>0],@MODULE[ModuleCommand],!MODULE[ELSurveyStation]]:NEEDS[SimpleConstruction|ExtraPlanetaryLaunchpads]:FOR[NotSoSimpleConstruction]
+{
+    @description ^= :$: <color=orange>\nSurvey Station. </color>:
+
+    MODULE
+    {
+        name = ELSurveyStation
+        
+    }
+}
+
+// thank you to @Wheeziemcriblet for the original patches
+// GPL 2.0
+// zer0Kerbal
