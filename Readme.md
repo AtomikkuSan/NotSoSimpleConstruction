@@ -1,7 +1,7 @@
-<!-- Readme.md v1.2.0.0
+<!-- Readme.md v1.2.0.1
 Not So SimpleConstruction (NSSC)
 created: 17 Jul 18
-updated: 10 Feb 2020 -->
+updated: 05 May 2021 -->
 
 [MODVERSION]: 1.0.2.2
 [KSPVERSION]: 1.8.x
@@ -24,7 +24,7 @@ from *@Mrcarrot* from* Originally created by [***RealGecko****](https://forum.ke
 
 # Not So SimpleConstruction
 [Not So SimpleConstruction]() addon.
-Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Reference; and turns Cupola module to Survey Station..
+Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Reference; and turns Cupola module to Survey Station. Optional patch included to add Survey Station to all crewed command parts (read file for instructions).
 
 #### Installation Directions 
 - Use CKAN
@@ -65,7 +65,7 @@ Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Re
 - none
 
 ### Possible Conflicts
-- [MKS}() maybe?
+- [MKS]() maybe?
 <hr>
 
 ![How to Get Suport](https://i.imgur.com/YdYfStN.jpg "https://forum.kerbalspaceprogram.com/index.php?/topic/83212*")
@@ -81,7 +81,7 @@ This mod contains @taniwha's Launchpad.dll, models, and  textures from [Extrapla
 ###### v1.0.2.2 original: 11 Aug 2018 zed'K | updated: 10 Feb 2020 zed'K
 
 <!--
-CC BY-NC-SA-4.0
+GPL 2.0
 zer0Kerbal-->
 
 
