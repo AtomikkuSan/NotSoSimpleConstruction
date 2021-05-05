@@ -9,7 +9,7 @@
 
 @PART[*]:HAS[#CrewCapacity[>0],@MODULE[ModuleCommand],!MODULE[ELSurveyStation]]:NEEDS[SimpleConstruction|ExtraPlanetaryLaunchpads]:FOR[NotSoSimpleConstruction]
 {
-    @description ^= :$: <color=orange>\nSurvey Station. </color>:
+    @description ^= :$: <color=orange>\nSurvey Station. Build things at surveyed sites.</color>:
 
     MODULE
     {
