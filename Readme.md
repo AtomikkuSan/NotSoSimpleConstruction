@@ -39,16 +39,16 @@ Adds Mallet, Survey Stake, Recycler, Disposable Pad, Orbital Dock and Control Re
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
 - [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
  
-### Recomends
-- [Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*)
+### Recommends
 - [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
+- [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
 - [Kerbal Inventory System](http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
 - [Kerbal Attachment System](http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
+- [Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*)
 
 ### Suggests
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)
 - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
-- [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
 - [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
 - [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
 - [Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
