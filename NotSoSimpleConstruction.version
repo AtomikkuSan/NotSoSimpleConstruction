@@ -1,7 +1,8 @@
 {
-    "NAME"     : "Not So SimpleConstruction",
-    "URL"      : "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/GameData/NotSoSimpleConstruction/NotSoSimpleConstruction.version",
-    "DOWNLOAD" : "https://github.com/zer0Kerbal/NotSoSimpleConstruction/releases/latest",
+    "NAME"           : "Not So SimpleConstruction (NSSC)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/NotSoSimpleConstruction.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/NotSoSimpleConstruction/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/changelog.md",
     "GITHUB" :
     {
         "USERNAME"          : "zer0Kerbal",
@@ -30,7 +31,13 @@
     "KSP_VERSION_MAX" :
     {
         "MAJOR" : 1,
-        "MINOR" : 8,
-        "PATCH" : 9
-    }
+        "MINOR" : 12,
+        "PATCH" : 2
+    },
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "NotSoSimpleConstruction",
+		"DIRECTORY" : "NotSoSimpleConstruction"
+	}
 }
+
