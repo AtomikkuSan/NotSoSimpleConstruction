@@ -4,8 +4,9 @@
     "DOWNLOAD" : "https://github.com/zer0Kerbal/NotSoSimpleConstruction/releases/latest",
     "GITHUB" :
     {
-        "USERNAME" : "zer0Kerbal",
-        "REPOSITORY" : "NotSoSimpleConstruction"
+        "USERNAME"          : "zer0Kerbal",
+        "REPOSITORY"        : "NotSoSimpleConstruction",
+        "ALLOW_PRE_RELEASE" : "false"
     },
     "VERSION" :
     {
