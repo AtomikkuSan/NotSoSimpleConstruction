@@ -9,6 +9,7 @@
         "**/Assets/**",
         "**/Flags/**",
         "**/Agents/**",
+        "**/Parts/**",
         "**/@Thumbs/**"
     ],
     "aggressiveCompression": "false",
