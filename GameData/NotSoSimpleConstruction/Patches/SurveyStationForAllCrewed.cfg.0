@@ -1,0 +1,23 @@
+// SurveyStationForAllCrewed.cfg v1.0.0.2
+// NotSoSimpleConstruction
+// created: 05 May 2021
+// updated: 05 May 2021
+
+// This will add the survey station capabality to all manned command parts
+// to enable - copy to user folder under GameData/
+// rename from *.cfg.0 to just *.cfg to activate it
+
+@PART[*]:HAS[#CrewCapacity[>0],@MODULE[ModuleCommand],!MODULE[ELSurveyStation]]:NEEDS[SimpleConstruction|ExtraPlanetaryLaunchpads]:FOR[NotSoSimpleConstruction]
+{
+    @description ^= :$: <color=orange>\nSurvey Station. Build things at surveyed sites.</color>:
+
+    MODULE
+    {
+        name = ELSurveyStation
+        
+    }
+}
+
+// thank you to @LEGIONBOSS/Wheeziemcriblet for the original patches
+// GPL 2.0
+// zer0Kerbal
