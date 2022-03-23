@@ -18,7 +18,7 @@ updated: 22 Mar 2022 -->
 
 A [SimpleConstruction!][scon] expansion which requires [SimpleConstruction!][scon] and Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal] from [`MrCarrot'][mrcarrot], originally by [`RealGecko`][realgecko]
+## By [`zer0Kerbal`][zer0Kerbal] from [`MrCarrot`][mrcarrot], originally by [`RealGecko`][realgecko]
 
 ### Features
 
