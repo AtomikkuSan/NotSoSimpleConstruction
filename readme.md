@@ -149,7 +149,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * [@`taniwha`][taniwha] for creating [Extraplanetary Launchpads][epl].
 * [@`MatterBeam`][matterbeam] for creating [SimpleConstruction! (SCON!)][SCON].
 * [@`RealGecko`][realgecko] for creating [Not So SimpleConstruction! (NSSC!)][NSSC].
-* [@`MrCarrot`][mrcarrot] previous maintainer
+* [@`MrCarrot`][mrcarrot] previous maintainer.
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
@@ -243,7 +243,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!-- zer0Kerbal mods -->
 [FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-*/ "Foundations (FND)"
 [ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-*/ "Olympic1's ARP Icons"
-[B9PS]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "B9 Stock Patches (B9SP)"
+[B9SP]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "B9 Stock Patches (B9SP)"
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "KaboOom! (BOOM!)"
 [KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
@@ -276,6 +276,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [mrcarrot]: https://forum.kerbalspaceprogram.com/index.php?/profile/176291-*/ "MrCarrot"
 [realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
 [taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
+[matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
