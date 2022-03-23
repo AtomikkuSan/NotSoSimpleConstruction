@@ -17,9 +17,11 @@ updated: 06 Mar 2022 -->
 
 has been translated into the following languages:
 
+* ![American English][EN] American English <us-en.cfg>  
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+
 __These localizations for KSP and its DLC's are available through Steam:__
 
-* [ ] ![American English][EN] American English <us-en.cfg>  
 * [ ] ![Deutsch][DE] German (Deutsch)  <de.cfg>  
 * [ ] ![Español][ES] Spanish (Español) <es-es.cfg>  
 * [ ] ![Français][FR] French (Français) <fr-fr.cfg>  
@@ -27,7 +29,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * [ ] ![Português Brasil][BR] Brazil Portuguese (Português Brasil)<pt-br.cfg>  
 * [ ] ![Русский][RU] Russian (Русский) <ru.cfg>  
-* [ ] ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "简体中文"

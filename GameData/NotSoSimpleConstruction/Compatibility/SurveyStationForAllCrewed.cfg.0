@@ -7,7 +7,7 @@
 // to enable - copy to user folder under GameData/
 // rename from *.cfg.0 to just *.cfg to activate it
 
-@PART[*]:HAS[#CrewCapacity[>0],@MODULE[ModuleCommand],!MODULE[ELSurveyStation]]:NEEDS[SimpleConstruction|ExtraPlanetaryLaunchpads]:FOR[NotSoSimpleConstruction]
+@PART[*]:HAS[#CrewCapacity[>0],@MODULE[ModuleCommand],!MODULE[ELSurveyStation]]:NEEDS[SimpleConstruction,Launchpad]:FOR[NotSoSimpleConstruction]
 {
     @description ^= :$: <color=orange>\nSurvey Station. Build things at surveyed sites.</color>:
 
@@ -19,8 +19,8 @@
 }
 
 // thank you to @LEGIONBOSS/Wheeziemcriblet for the original patches
+
 // Original concept by LEGIONBOSS https://forum.kerbalspaceprogram.com/index.php?/profile/139013-legionboss/
 // https://forum.kerbalspaceprogram.com/index.php?/topic/152309-ksp-any-not-so-simple-construction-102-simple-construction-addon-2017-03-13/&do=findComment&comment=3276227
 
-// GPL 2.0
-// zer0Kerbal
+// GPL 2.0 BY zer0Kerbal
