@@ -3,14 +3,20 @@
     "ignoredFiles": [
         "GameData/*",
         "docs/LegalMumboJumbo/*",
+        "/docs/LegalMumboJumbo/*",
         "GameData/NotSoSimpleConstruction/*",
+        "/GameData/NotSoSimpleConstruction/*",
         "GameData/NotSoSimpleConstruction/Textures/*",
+        "/GameData/NotSoSimpleConstruction/Textures/*",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
         "**/Agents/**",
-        "**/Parts/**",
-        "**/@Thumbs/**"
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
