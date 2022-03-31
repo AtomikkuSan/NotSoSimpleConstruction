@@ -10,6 +10,30 @@
 | spacedock  | (https://spacedock.info/mod/1078)                                    |
 | ckan       | NotSoSimpleConstruction                                              |
 
+## Version 1.0.99.1-prerelease - `<Pilot Surveys>`
+
+* 23 Mar 2022
+* Released for for KSP 1.12.3
+
+### Configs
+
+* [ExperienceTraits.cfg] v1.0.1.0
+  * add (uncomment)
+  * [ELSurveySkill]
+    * add to Pilots
+    * SimpleConstruction! not longer adds as of 4.0.99.5-prerelease
+* fixes #40 - ExperienceTraits.cfg
+
+### Status
+
+* Issues/Requests
+  * closed #41 - Not So SimpleConstruction! (NSSC!) 1.0.99.1-prerelease `<Pilot Surveys>`
+  * closed #42 - 1.0.99.1 Verify Legal Mumbo Jumbo
+  * closed #43 - 1.0.99.1 Update Documentation
+  * closed #44 - 1.0.99.1 Update Social Media
+
+---
+
 ## Version 1.0.99.0 - Somebody Order these Parts?
 
 * 23 Mar 2022
@@ -42,7 +66,7 @@
   * [ExperienceTraits.cfg]
   * [SurveyStation.cfg] v1.0.0.2
   * [SurveyStationForAllCrewed.cfg] v1.0.0.2
-* created [ghostparts.cfg] v1.0.0.0 so that will hide in editors (but not flight) SimpleConstructions! croPad
+* created [ghostparts.cfg] v1.0.0.0 so that will hide in editors (but not flight) SimpleConstructions! MicroPad
 
 ### Compatibility
 
@@ -108,7 +132,7 @@
 ### Status
 
 * Issues/Requests
-  * closes #2 - Optional MM patch to add SurvesStation module to all manned command parts - contributed by   LEGIONBOSS
+  * closes #2 - Optional MM patch to add SurveyStation module to all manned command parts - contributed by   LEGIONBOSS
   * closes #5 - Update Not So SimpleConstruction! (NSSC) 1.0.99.0-prerelease <NAME>
   * closes #7 - Not So SimpleConstruction (NSSC) 1.0.99.0-prerelease <NAME>
   * closes #8 - 1.0.99.0 Verify Legal Mumbo Jumbo
