@@ -4,6 +4,7 @@
         "GameData/*",
         "docs/LegalMumboJumbo/*",
         "/docs/LegalMumboJumbo/*",
+        "**/LegalMumboJumbo/**",
         "GameData/NotSoSimpleConstruction/*",
         "/GameData/NotSoSimpleConstruction/*",
         "GameData/NotSoSimpleConstruction/Textures/*",
