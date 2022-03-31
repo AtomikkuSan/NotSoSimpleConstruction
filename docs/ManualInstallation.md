@@ -1,6 +1,6 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation (no warranty coverage provided)
 ---
 
 <!-- ManualInstallation.md v1.1.0.0
@@ -42,7 +42,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 ## The following file layout must be present after installation
 
-```
+```markdown
 <KSP_ROOT>
   [GameData]
     [ExtraplanetaryLaunchpads]
