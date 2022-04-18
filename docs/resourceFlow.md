@@ -21,15 +21,6 @@ https://mermaid-js.github.io/mermaid/
 
 ## Resource Flow
 
-```mermaid
-  graph LR
-    id[Resource Flow];
-      Drill-->StoreOre((Ore Tank)) & ISRU
-      StoreOre-->ISRU
-      ISRU-->StoreMetal((Metal Tank)) & ScienceLab
-      StoreMetal-->ScienceLab
-      ScienceLab-->StoreRP((RocketParts Tank))--> Workshop
-      Workshop-->Profit
-```
+![Resource Flow](https://github.com/zer0Kerbal/SimpleConstruction/blob/master/img/SimpleConstruction-resourceFlow.png?raw=true)
 
 <!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
