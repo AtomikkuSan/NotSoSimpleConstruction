@@ -1,3 +1,11 @@
+---
+permalink: /Notices.html
+title: Legal Notices
+description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
+# layout: bare
+tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
 # Not So SimpleConstruction! (NSSC)
 
 <!--
@@ -35,11 +43,3 @@ Other trademarks and registered trademarks are the property of the respective tr
 © 2011-2022 zer0Kerbal™
 
 <!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
-
----
-permalink: /Notices.html
-title: Legal Notices
-description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
-tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
----
