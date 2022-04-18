@@ -94,8 +94,8 @@
 *                 text=auto
 # Source code
 *.bash            text eol=lf
-*.bat             text eol=crlf
-*.cmd             text eol=crlf
+# *.bat             text eol=crlf
+# *.cmd             text eol=crlf
 *.coffee          text
 *.css             text
 *.htm             text diff=html
@@ -131,7 +131,7 @@ Dockerfile        text
 # Documentation
 *.ipynb           text
 *.markdown        text
-*.md              text
+# *.md              text
 *.mdwn            text
 *.mdown           text
 *.mkd             text
