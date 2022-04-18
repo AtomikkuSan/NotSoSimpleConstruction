@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.6.0
-Not So SimpleConstruction (NSSC)
+Not So SimpleConstruction! (NSSC)
 created: 17 Jul 2018
 updated: 22 Mar 2022 -->
 
@@ -14,7 +14,7 @@ updated: 22 Mar 2022 -->
 
 
 
-# Not So SimpleConstruction
+# Not So SimpleConstruction! (NSSC)
 
 A [SimpleConstruction!][scon] expansion which requires [SimpleConstruction!][scon] and Kerbal Space Program.
 
