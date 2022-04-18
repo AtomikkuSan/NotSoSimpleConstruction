@@ -1,6 +1,6 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 # layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
