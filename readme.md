@@ -30,7 +30,6 @@ A [SimpleConstruction!][scon] expansion which requires [SimpleConstruction!][sco
     * Large
   * Disposable Pad
   * Orbital Dock
-  * Control Reference
 * Features Added
   * Adds Survey Station to the  Cupola.
   * Optional patch included to add Survey Station to all crewed command parts (read file for instructions).
