@@ -1,34 +1,26 @@
 ---
 permalink: /resourceFlow.html
 title: Resource Flow
+description: the flat-pack Kiea instructions, written in Kerbalese, unusally present, the missing half
+# layout: bare
+tags: resource,flow,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- https://mermaid-js.github.io/mermaid/ -->
+
 <!--
-resourceFlow.md v1.0.0.0
 Not So SimpleConstruction! (NSSC)
 created: 26 Feb 2022
 updated: 26 Feb 2022
+https://mermaid-js.github.io/mermaid/
 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SCON!)
+# No So SimpleConstruction! (NSSC)
 
-[Home](https://zer0kerbal.github.io/SimpleConstruction)
+[Home](./index)
 
 ## Resource Flow
 
-```mermaid
-  graph LR
-  	id[Resource Flow];
-      Drill-->StoreOre((Ore Tank)) & ISRU
-      StoreOre-->ISRU
-      ISRU-->StoreMetal((Metal Tank)) & ScienceLab
-      StoreMetal-->ScienceLab
-      ScienceLab-->StoreRP((RocketParts Tank))--> Workshop
-      Workshop-->Profit
-```
+![Resource Flow](https://github.com/zer0Kerbal/SimpleConstruction/blob/master/img/SimpleConstruction-resourceFlow.png?raw=true)
 
-
-
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
