@@ -2,15 +2,7 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "docs/LegalMumboJumbo/*",
-        "/docs/LegalMumboJumbo/*",
-        "**/LegalMumboJumbo/**",
         "GameData/NotSoSimpleConstruction/*",
-        "/GameData/NotSoSimpleConstruction/*",
-        "GameData/NotSoSimpleConstruction/Assets/*",
-        "/GameData/NotSoSimpleConstruction/Assets/*",
-        "GameData/NotSoSimpleConstruction/Parts/@thumbs/*",
-        "/GameData/NotSoSimpleConstruction/Parts/@thumbs/*",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
@@ -19,7 +11,8 @@
         "**/UI/**",
         "**/PluginData/**",
         "**/Icons/**",
-        "**/@thumbs/**"
+        "**/@thumbs/**",
+        "**/LegalMumboJumbo/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
