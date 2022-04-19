@@ -7,7 +7,7 @@ updated: 15 Apr 2022 -->
 
 [![Not So SimpleConstruction!][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![GitHub][GITHUB:shd]][GITHUB:url] [![Curseforge][CURSFG:shd]][CURSFG:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages][MOD:pages:shd]][MOD:pages]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages][MOD:pages:shd]][MOD:pages]  
 
 
 
@@ -190,7 +190,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [MOD:wiki]: https://zer0kerbal.github.io/NotSoSimpleConstruction/ "Wiki"
 
 <!--- mod -->
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/mod.json
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/mod.json "Latest"
 
 [MOD:pages:shd]: https://github.com/zer0Kerbal/NotSoSimpleConstruction/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
