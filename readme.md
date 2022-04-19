@@ -82,7 +82,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [SimpleConstruction! (SCON!)][SCON]
+* [SimpleConstruction! (SCON)][SCON]
 * Either
   * [Module Manager][mm] [^3]
   * [Module Manager /L][mm]l [^3]
@@ -91,7 +91,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 * [KerbalStats][ks] - keeps tract of time on task, which can increase task efficiency
 * [Keridian Dynamics Vessel Assembly (KDVA)][KDVA]
-* [SimpleLogistics! (SLOG!)][SLOG]
+* [SimpleLogistics! (SLOG)][SLOG]
 * [Foundations (FND) - beta][FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
