@@ -64,7 +64,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![Chinese Flag][CN] Chinese (简体中文)
 >* ***your translation here***
 >
-> Kindly help translate [@`taniwha's][taniwha] [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads). See above for instructions.
+> Kindly help translate [`taniwha's][taniwha] [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads). See above for instructions.
 
 ---
 
@@ -273,7 +273,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 <!--- statics -->
 
 [realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
-[taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
+[taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "taniwha"
 [matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
 [degradka]: https://github.com/degradka "degradka"
 [mrcarrot]: https://forum.kerbalspaceprogram.com/index.php?/profile/176291-*/ "MrCarrot"
