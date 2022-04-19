@@ -10,6 +10,39 @@
 | spacedock  | (https://spacedock.info/mod/1078)                                    |
 | ckan       | NotSoSimpleConstruction                                              |
 
+## Version 1.0.99.2-prerelease - `<Спасиба деградка>`
+
+* 18 Apr 2022
+* Released for for KSP 1.12.3
+
+### Localization 🗃️
+
+* Translation
+  * Русский Russian (Русский)
+    * Add <ru.cfg>
+    * thank you to @degradka
+  * update
+    * add headers
+  * updates #11 - Localization - Master
+  * closes #19 - Russian (Русский) <ru.cfg>
+
+## Update
+
+* docs/
+* Documentation
+* [NotSoSimpleConstruction.cfg]
+  * remove [KSP_VERSION_MIN]
+
+### Status
+
+* Issues/Requests
+  * closes #48 - Not So SimpleConstruction! (NSSC) 1.0.99.2-prerelease `<Спасиба деградка>`
+  * closes #49 - 1.0.99.2 Verify Legal Mumbo Jumbo
+  * closes #50 - 1.0.99.2 Update Documentation
+  * closes #51 - 1.0.99.2 Update Social Media
+
+---
+
 ## Version 1.0.99.1-prerelease - `<Pilot Surveys>`
 
 * 23 Mar 2022
