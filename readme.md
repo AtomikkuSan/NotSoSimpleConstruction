@@ -64,7 +64,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![Chinese Flag][CN] Chinese (简体中文)
 >* ***your translation here***
 >
-> Kindly help translate [`taniwha's`][taniwha] [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads). See above for instructions.
+> Kindly help translate [`taniwha`][taniwha]'s [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads). See above for instructions.
 
 ---
 
